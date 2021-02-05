@@ -18,7 +18,6 @@ class MyApp extends StatelessWidget {
             children: [
               Container(
                 color: Colors.white,
-                width: 50,
                 child: Text('Container 1'),
               ),
               SizedBox(
@@ -26,12 +25,10 @@ class MyApp extends StatelessWidget {
               ),
               Container(
                 color: Colors.red,
-                width: 50,
                 child: Text('Container 2'),
               ),
               Container(
                 color: Colors.blue,
-                width: 50,
                 child: Text('Container 3'),
               ),
             ]

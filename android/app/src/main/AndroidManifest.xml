@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="co.appbrewery.magic8ball">
+=======
+    package="co.appbrewery.dicee">
+>>>>>>> def00277e08719c983e9d7b3aca6927c38091eb2
 
     <!-- The INTERNET permission is required for development. Specifically,
          flutter needs it to communicate with the running application
@@ -14,7 +18,11 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
+<<<<<<< HEAD
         android:label="magic_8_ball"
+=======
+        android:label="dicee"
+>>>>>>> def00277e08719c983e9d7b3aca6927c38091eb2
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4251f25a-1ddc-4310-b3fb-6a3f58f7dcaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1p3Wmb5D4ALyk20Sl3Jz2VGYpLf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4251f25a-1ddc-4310-b3fb-6a3f58f7dcaa" name="Default Changelist" comment="" />
+      <created>1614412413283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614412413283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="820" y="125" width="520" height="675" key="AVDManager" timestamp="1614427036769">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="820" y="125" width="520" height="675" key="AVDManager/0.25.1440.875@0.25.1440.875" timestamp="1614427036769" />
+    <state width="678" height="228" key="GridCell.Tab.0.bottom" timestamp="1614427541053">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="678" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1614427541053" />
+    <state width="678" height="228" key="GridCell.Tab.0.center" timestamp="1614427541052">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="678" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1614427541052" />
+    <state width="678" height="228" key="GridCell.Tab.0.left" timestamp="1614427541050">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="678" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1614427541050" />
+    <state width="678" height="228" key="GridCell.Tab.0.right" timestamp="1614427541052">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="678" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1614427541052" />
+    <state x="114" y="98" key="SettingsEditor" timestamp="1614426632875">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="114" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1614426632875" />
+    <state x="745" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1614425217296">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="745" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1614425217296" />
+  </component>
+</project>
